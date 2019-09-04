@@ -37,6 +37,15 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  -webkit-animation-name: Through Deriecka's Eyes; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    animation-name: AP Computer Science Principals};
+  animation-duration: 4s;
+}
 
 ul.posts li {
     list-style: none;
