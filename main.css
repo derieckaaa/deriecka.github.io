@@ -43,7 +43,6 @@ div {
 ul.posts li {
     list-style: none;
 }
-transform: rotate(90deg);
     
 .rotateimg180 {
  transform: rotate(90deg);
