@@ -45,10 +45,6 @@ ul.posts li {
 }
 transform: rotate(90deg);
     
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  transform:rotate(90deg);
+.rotateimg180 {
+ transform: rotate(180deg);
 }
