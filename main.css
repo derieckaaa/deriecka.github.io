@@ -44,6 +44,6 @@ ul.posts li {
     list-style: none;
 }
     
-.rotateimg180 {
+ row{
  transform: rotate(90deg);
 }
