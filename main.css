@@ -45,6 +45,10 @@ ul.posts li {
 }
 transform: rotate(90deg);
     
-pineapple.jpg{
-     transform: rotate(90deg);
-    }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  transform:rotate(90deg);
+}
